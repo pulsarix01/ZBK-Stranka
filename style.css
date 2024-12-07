@@ -124,14 +124,13 @@ footer p {
     }
 }
 
-/* Adjust these values to reposition as needed */
 .image-container {
     position: absolute; 
-    top: 300px;          /* move up/down as required */
-    right: 50px;         /* move left/right as required */
-    width: 600px;        /* increased width */
-    height: 300px;       /* increased height */
-    overflow: hidden;    /* ensures image doesn't overflow */
+    top: 300px;          
+    right: 50px;         
+    width: 600px;        
+    height: 300px;       
+    overflow: hidden;    
     border-radius: 5%;
 }
 
