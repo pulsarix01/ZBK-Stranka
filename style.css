@@ -129,8 +129,8 @@ footer p {
     position: absolute; 
     top: 300px;          /* move up/down as required */
     right: 50px;         /* move left/right as required */
-    width: 630px;        /* increased width */
-    height: 380px;       /* increased height */
+    width: 600px;        /* increased width */
+    height: 300px;       /* increased height */
     overflow: hidden;    /* ensures image doesn't overflow */
     border-radius: 5%;
 }
